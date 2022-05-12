@@ -1,0 +1,19 @@
+{
+    "hl7tools.FavouriteRemoteHosts": [
+        {
+            "Description": "Localhost",
+            "Hostname": "127.0.0.1",
+            "Port": 30082
+        },
+        {
+            "Description": "Ibiza cluster",
+            "Hostname": "10.115.6.53",
+            "Port": 30082
+        },
+        {
+            "Description": "Margarite cluster",
+            "Hostname": "10.145.227.127",
+            "Port": 30082
+        }
+    ]
+}
