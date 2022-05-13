@@ -1,0 +1,67 @@
+{
+    "id": "fa64366a28ff48cfa552327953f7baa9",
+    "specVersion": "1.0",
+    "source": "HL7_DATA_SOURCE_ID",
+    "type": "com.roche.lni.infinity.order",
+    "time": "2001-01-01T00:00:00.000Z",
+    "privacyRelevant": true,
+    "dataContentType": "application/json",
+    "dataSchema": "tbd",
+    "sequence": 1,
+    "data": {
+        "messagecontrolid": "112233445566778899-001",
+        "time": "2001-01-01T00:00:00Z",
+        "sendingapplication": "NES",
+        "sendingfacility": "NINTENDO",
+        "receivingapplication": "TESTSYSTEM",
+        "receivingfacility": "TESTFACILITY",
+        "patient": {
+            "dob": "1985-01-01T00:00:00Z",
+            "extid": "123456789",
+            "extid2": "",
+            "gender": "M",
+            "firstname": "MARIO",
+            "lastname": "BROS",
+            "address": {
+                "street": "123 FAKE STREET",
+                "city": "TOADSTOOL KINGDOM",
+                "state": "NES",
+                "zipcode": "A1B2C3"
+            }
+        },
+        "order": {
+            "extid": "",
+            "targetsamplingdate": "--T::.Z",
+            "orderdate": "2016-07-03T10:25:28Z",
+            "samples": [
+                {
+                    "typedescription": "Blood",
+                    "type": "BLD",
+                    "extid": "",
+                    "amount": "",
+                    "unit": "^",
+                    "labeldescription": "",
+                    "tests": [
+                        {
+                            "code": "57021-8",
+                            "description": "CBC W Auto Differential panel in Blood"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "correlation": [
+        {
+            "orderid": "112233445566778899-001"
+        }
+    ],
+    "labels": [
+        {
+            "core_integrator_id": "LasPalmas_CORE_INTEGRATOR",
+            "account_number": "LPM-0000000001",
+            "location_name": "LasPalmas-QA-environment"
+        }
+    ],
+    "correlationId": null
+}","stacktrace":""}
