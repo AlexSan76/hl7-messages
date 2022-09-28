@@ -19,7 +19,18 @@
             "Description": "Las Palmas QA",
             "Hostname": "las-palmas-lni-core.kau.roche.com",
             "Port": 30082
-        }
+        },
+        {
+            "Description": "Allegranza",
+            "Hostname": "alegranza-lni-core.kau.roche.com",
+            "Port": 30082
+        }        ,
+        {
+            "Description": "Allegranza IP",
+            "Hostname": "10.115.6.134",
+            "Port": 30082
+        }        
+
     ],
     "hl7tools.ConnectionTimeout": 10
 }
