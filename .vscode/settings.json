@@ -29,7 +29,13 @@
             "Description": "Allegranza IP",
             "Hostname": "10.115.6.134",
             "Port": 30082
-        }        
+        }     
+        ,
+        {
+            "Description": "Kodama lni core",
+            "Hostname": "10.145.225.37",
+            "Port": 30082
+        }              
 
     ],
     "hl7tools.ConnectionTimeout": 10
