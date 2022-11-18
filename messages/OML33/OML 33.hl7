@@ -1,6 +1,9 @@
-MSH|^~\&|cobas infinity 3.05.00|cobas infinity 3.05.00|NAVIFY Sample Tracking|NAVIFY Sample Tracking|20221114143331+0000||OML^O33^OML_O33|F5B278F9-AC7D-47C1-AF52-476D25FEEAC9|P|2.5.1||||||UNICODE UTF-8
-PID|1||10^^^Alternate_Assigning_Authority||lastname_pac10^first name_pac10||19670101|F
-SPM|1|0011||SER^Serum|||||||||||||||||||||||67^67 - SERUM - braun - Nativ Gel COBAS
-ORC|NW||0012||||||20210118000000.000+0000
-TQ1|1||||||20221114143331+0000||R
-OBR|1||0012|1^T1
+MSH|^~\\&|lis_cbt|cbt|ppa|orm|20210127135522.030+0000||OML^O33^OML_O33|REFERENCE_NUMBER_PLACEHOLDER|P|2.5.1||||||UNICODE UTF-8
+PID|1||08302071^^^cbt^PI|9999991234^^^oms^PI|Muster^Lena||20010318|F|||Musterstrasse 17^^Essen^NRW^45131
+SPM|1|210113701567||SER^Serum|||||||||||||||||||||||67^67 - SERUM - braun - Nativ Gel COBAS
+ORC|NW||2101137015||||||20210118000000.000+0000|||cbt
+TQ1|1||||||20210101000000.000+0000||R
+OBR|1|2101137015||221^Bilirubin gesamt||||||||||||cbt|||||||||||^^^^^STAT
+ORC|NW||2101137015||||||20210118000000.000+0000|||cbt
+TQ1|2||||||20210101000000.000+0000||R
+OBR|2|2101137015||2681^CRP (cobas)||||||||||||cbt
