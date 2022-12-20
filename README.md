@@ -17,3 +17,5 @@ https://code.roche.com/lni/modules/system-test/-/blob/master/data/hl7/OrderCreat
 
 https://code.roche.com/ppa/messages/message_repository/-/tree/main/new_order/messages
 
+PPX Messages
+https://docs.google.com/document/d/1Mu5gi07ijWHQXy7AASrVJWu2pwjsAHh2coq1lWq13zg/edit#
