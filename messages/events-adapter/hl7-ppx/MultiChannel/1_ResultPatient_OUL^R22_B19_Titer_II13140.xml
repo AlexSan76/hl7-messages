@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SampleResult Version="1.0" DriverName="cobas8800B" DriverVersion="%DriverVersion%" InstrumentType="cobas8800B" Batch="false">
+  <Sample Control="false" SampleID="$005D7F19" InstrumentSpecimen="02">
+    <Result TestCode="75540-5^DPX^LN#HAV^HAV^99ROC#0" Operator="p" DateTime="20161124131832" MeasuringSubUnitID="IM300-006666">
+      <ResultPart Part="1">ValueNotSet</ResultPart>
+      <ResultPart Part="2" ModifiedResult="true" OriginalResult="NR">Non-Reactive</ResultPart>
+      <Flag Value="NR" />
+      <Comment Key="QCID_1">12_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">11_pos^^99ROC</Comment>
+    </Result>
+    <Result TestCode="75540-5^DPX^LN#B19^B19^99ROC#0" Operator="p" DateTime="20161124131832" MeasuringSubUnitID="IM300-006666">
+      <ResultPart Part="1">ValueNotSet</ResultPart>
+      <ResultPart Part="2" ModifiedResult="true" OriginalResult="BCO">BelowCutOff</ResultPart>
+      <Flag Value="BCO" />
+      <Comment Key="QCID_1">12_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">11_pos^^99ROC</Comment>
+    </Result>
+    <Result TestCode="75540-5^DPX^LN#B19^B19^99ROC#0" Operator="p" DateTime="20161124131832" MeasuringSubUnitID="IM300-006666">
+      <ResultPart Part="1">ValueNotSet</ResultPart>
+      <ResultPart Part="2" ModifiedResult="true" OriginalResult="ND">TargNotDetected</ResultPart>
+      <Flag Value="ND" />
+      <Comment Key="QCID_1">12_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">11_pos^^99ROC</Comment>
+    </Result>
+    <Result TestCode="75540-5^DPX^LN#0" Operator="p" DateTime="20161124131832" MeasuringSubUnitID="IM300-006666">
+      <ResultPart Part="1">ValueNotSet</ResultPart>
+      <ResultPart Part="2" ModifiedResult="true" OriginalResult="NR">Non-Reactive</ResultPart>
+      <Flag Value="NR" />
+      <Comment Key="QCID_1">12_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">11_pos^^99ROC</Comment>
+    </Result>
+    <Result TestCode="75540-5^DPX^LN#RI#0" Operator="p" DateTime="20161124131832" MeasuringSubUnitID="IM300-006666">
+      <ResultPart Part="1">Non-Reactive</ResultPart>
+      <ResultPart Part="2">Non-Reactive</ResultPart>
+      <Comment Key="QCID_1">12_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">11_pos^^99ROC</Comment>
+    </Result>
+  </Sample>
+</SampleResult>

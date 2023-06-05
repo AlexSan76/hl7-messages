@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "joshuapoehls.json-escaper",
-        "RobHolme.hl7tools"
+        "robholme.hl7tools",
+        "humao.rest-client"
     ]
 }

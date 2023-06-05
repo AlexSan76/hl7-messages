@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SampleResult Batch="false" Version="1.0" DriverName="cobaspro" DriverVersion="%DriverVersion%" InstrumentType="cobaspro">
+  <Sample SampleID="10002" InstrumentSpecimen="01" InstrumentTubeType="FSBT" Control="false">
+    <Result TestCode="12000" InstrumentDilution="1" Operator="Operator" CalibrationID="4711" StandbyReagent="false" DateTime="20160725155600" PipettingDateTime="20160719194012" UniqueID="10002#01#12000#20160719194012#-1" MeasuringSubUnitID="e801" Repetition="false">
+      <ResultPart Part="1">-1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="2" Expired="false" LotID="123456" SerialNumber="1234567" />
+      </Reagents>
+      <Flag Value="ABS" />
+      <Comment Key="C1">Comment1</Comment>
+      <Comment Key="C2">Comment2</Comment>
+      <Comment Key="C3">Comment3</Comment>
+      <Comment Key="C4">Comment4</Comment>
+      <Comment Key="C5">Comment5</Comment>
+      <Result TestCode="12000-12000_EFS-1" InstrumentDilution="1" Operator="Operator" CalibrationID="EFS" StandbyReagent="false" DateTime="20160725155600" PipettingDateTime="20160719194012" UniqueID="10002#01#12000-12000_EFS-1#20160719194012#12343.14#count" MeasuringSubUnitID="e801#1" Repetition="false">
+        <ResultPart Part="1" Unit="count">12343.14</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="2" Expired="false" LotID="123456" SerialNumber="1234567" />
+        </Reagents>
+        <Flag Value="ABS" />
+        <Comment Key="C1">Comment1</Comment>
+        <Comment Key="C2">Comment2</Comment>
+        <Comment Key="C3">Comment3</Comment>
+        <Comment Key="C4">Comment4</Comment>
+        <Comment Key="C5">Comment5</Comment>
+      </Result>
+      <Result TestCode="12000-12000_EFV-1" InstrumentDilution="1" Operator="Operator" CalibrationID="EFV" StandbyReagent="false" DateTime="20160725155600" PipettingDateTime="20160719194012" UniqueID="10002#01#12000-12000_EFV-1#20160719194012#23453.12#count" MeasuringSubUnitID="e801#1" Repetition="false">
+        <ResultPart Part="1" Unit="count">23453.12</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="2" Expired="false" LotID="123456" SerialNumber="1234567" />
+        </Reagents>
+        <Flag Value="ABS" />
+        <Comment Key="C1">Comment1</Comment>
+        <Comment Key="C2">Comment2</Comment>
+        <Comment Key="C3">Comment3</Comment>
+        <Comment Key="C4">Comment4</Comment>
+        <Comment Key="C5">Comment5</Comment>
+      </Result>
+      <Result TestCode="12000-12000_EFC-1" InstrumentDilution="1" Operator="Operator" CalibrationID="EFC" StandbyReagent="false" DateTime="20160725155600" PipettingDateTime="20160719194012" UniqueID="10002#01#12000-12000_EFC-1#20160719194012#34563.13#count" MeasuringSubUnitID="e801#1" Repetition="false">
+        <ResultPart Part="1" Unit="count">34563.13</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="2" Expired="false" LotID="123456" SerialNumber="1234567" />
+        </Reagents>
+        <Flag Value="ABS" />
+        <Comment Key="C1">Comment1</Comment>
+        <Comment Key="C2">Comment2</Comment>
+        <Comment Key="C3">Comment3</Comment>
+        <Comment Key="C4">Comment4</Comment>
+        <Comment Key="C5">Comment5</Comment>
+      </Result>
+      <Result TestCode="12000-12000_PMT-1" InstrumentDilution="1" Operator="Operator" CalibrationID="PMT" StandbyReagent="false" DateTime="20160725155600" PipettingDateTime="20160719194012" UniqueID="10002#01#12000-12000_PMT-1#20160719194012#315#count" MeasuringSubUnitID="e801#1" Repetition="false">
+        <ResultPart Part="1" Unit="count">315</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="2" Expired="false" LotID="123456" SerialNumber="1234567" />
+        </Reagents>
+        <Flag Value="ABS" />
+        <Comment Key="C1">Comment1</Comment>
+        <Comment Key="C2">Comment2</Comment>
+        <Comment Key="C3">Comment3</Comment>
+        <Comment Key="C4">Comment4</Comment>
+        <Comment Key="C5">Comment5</Comment>
+      </Result>
+    </Result>
+  </Sample>
+</SampleResult>

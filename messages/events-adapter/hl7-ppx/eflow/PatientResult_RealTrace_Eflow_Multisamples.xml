@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SampleResult Batch="false" Version="1.0" DriverName="cobaspro" DriverVersion="%DriverVersion%" InstrumentType="cobaspro">
+  <Sample SampleID="49" ControlName="49" ControlLotID="202152" InstrumentSpecimen="01" InstrumentTubeType="SC" Control="true" ControlExpirationDate="20191231">
+    <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1123" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302" MeasuringSubUnitID="e801#1" Repetition="false">
+      <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+      <ResultPart Part="1"></ResultPart>
+      <ResultPart Part="2">-1</ResultPart>
+      <ResultPart Part="0">^-1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#671.6460#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">671.6460</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#-118.3347#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3347</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#236.8924#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.8924</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#15394#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15394</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="761" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350" MeasuringSubUnitID="e801#1" Repetition="false">
+      <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+      <ResultPart Part="1"></ResultPart>
+      <ResultPart Part="2">-1</ResultPart>
+      <ResultPart Part="0">^-1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#682.7086#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">682.7086</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#-118.3377#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3377</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#236.7048#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.7048</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#15190#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15190</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1124" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314" MeasuringSubUnitID="e801#2" Repetition="false">
+      <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+      <ResultPart Part="1"></ResultPart>
+      <ResultPart Part="2">-1</ResultPart>
+      <ResultPart Part="0">^-1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#652.1761#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">652.1761</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#-118.6409#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6409</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#229.7896#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.7896</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#14199#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14199</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="762" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402" MeasuringSubUnitID="e801#2" Repetition="false">
+      <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+      <ResultPart Part="1"></ResultPart>
+      <ResultPart Part="2">-1</ResultPart>
+      <ResultPart Part="0">^-1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#638.8497#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">638.8497</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#-118.6767#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6767</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#229.6628#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.6628</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#14327#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14327</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1121" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326" MeasuringSubUnitID="e801#1" Repetition="false">
+      <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+      <ResultPart Part="1"></ResultPart>
+      <ResultPart Part="2">1</ResultPart>
+      <ResultPart Part="0">^1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#6838.1990#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6838.1990</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#-118.2758#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.2758</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#236.8456#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">236.8456</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#15180#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">15180</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="759" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414" MeasuringSubUnitID="e801#1" Repetition="false">
+      <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+      <ResultPart Part="1"></ResultPart>
+      <ResultPart Part="2">1</ResultPart>
+      <ResultPart Part="0">^1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#6759.0438#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6759.0438</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#-118.2955#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.2955</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#236.8964#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">236.8964</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#15262#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">15262</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1122" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338" MeasuringSubUnitID="e801#2" Repetition="false">
+      <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+      <ResultPart Part="1"></ResultPart>
+      <ResultPart Part="2">1</ResultPart>
+      <ResultPart Part="0">^1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#6405.6851#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6405.6851</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#-118.6402#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.6402</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#229.9292#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">229.9292</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#14142#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">14142</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="760" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426" MeasuringSubUnitID="e801#2" Repetition="false">
+      <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+      <ResultPart Part="1"></ResultPart>
+      <ResultPart Part="2">1</ResultPart>
+      <ResultPart Part="0">^1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#6341.5898#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6341.5898</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#-118.6219#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.6219</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#229.9308#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">229.9308</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#13725#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">13725</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12000" LinkageID="1" Operator="geitnerm" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130314" UniqueID="49#01#12000#20180426130314#7.96#COI#1" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">7.96</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">7.96^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="188549" KitID="13" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1124" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#652.1761#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">652.1761</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#-118.6409#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6409</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#229.7896#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.7896</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#14199#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14199</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1122" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#6405.6851#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6405.6851</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#-118.6402#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.6402</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#229.9292#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">229.9292</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#14142#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">14142</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12000" LinkageID="2" Operator="geitnerm" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130302" UniqueID="49#01#12000#20180426130302#7.96#COI#2" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">7.96</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">7.96^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="188549" KitID="13" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1123" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#671.6460#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">671.6460</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#-118.3347#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3347</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#236.8924#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.8924</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#15394#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15394</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1122" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#6405.6851#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6405.6851</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#-118.6402#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.6402</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#229.9292#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">229.9292</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#14142#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">14142</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12000" LinkageID="3" Operator="geitnerm" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130314" UniqueID="49#01#12000#20180426130314#8.17#COI#3" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">8.17</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">8.17^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="188549" KitID="13" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1121" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#6838.1990#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6838.1990</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#-118.2758#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.2758</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#236.8456#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">236.8456</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#15180#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">15180</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1124" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#652.1761#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">652.1761</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#-118.6409#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6409</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#229.7896#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.7896</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#14199#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14199</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12000" LinkageID="4" Operator="geitnerm" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130302" UniqueID="49#01#12000#20180426130302#8.17#COI#4" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">8.17</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">8.17^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="188549" KitID="13" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1123" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#671.6460#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">671.6460</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#-118.3347#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3347</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#236.8924#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.8924</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#15394#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15394</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1121" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#6838.1990#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6838.1990</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#-118.2758#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.2758</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#236.8456#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">236.8456</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#15180#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">15180</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12000" LinkageID="1" Operator="geitnerm" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130402" UniqueID="49#01#12000#20180426130402#6.88#COI#1" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">6.88</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">6.88^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="228633" KitID="21" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="762" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#638.8497#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">638.8497</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#-118.6767#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6767</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#229.6628#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.6628</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#14327#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14327</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="760" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#6341.5898#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6341.5898</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#-118.6219#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.6219</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#229.9308#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">229.9308</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#13725#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">13725</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12000" LinkageID="2" Operator="geitnerm" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130350" UniqueID="49#01#12000#20180426130350#6.88#COI#2" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">6.88</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">6.88^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="228633" KitID="21" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="761" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#682.7086#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">682.7086</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#-118.3377#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3377</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#236.7048#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.7048</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#15190#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15190</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="760" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#6341.5898#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6341.5898</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#-118.6219#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.6219</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#229.9308#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">229.9308</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#13725#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">13725</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12000" LinkageID="3" Operator="geitnerm" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130402" UniqueID="49#01#12000#20180426130402#7.02#COI#3" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">7.02</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">7.02^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="228633" KitID="21" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="759" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#6759.0438#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6759.0438</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#-118.2955#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.2955</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#236.8964#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">236.8964</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#15262#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">15262</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="762" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#638.8497#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">638.8497</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#-118.6767#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6767</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#229.6628#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.6628</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#14327#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14327</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12000" LinkageID="4" Operator="geitnerm" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130350" UniqueID="49#01#12000#20180426130350#7.02#COI#4" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">7.02</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">7.02^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="228633" KitID="21" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="761" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#682.7086#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">682.7086</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#-118.3377#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3377</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#236.7048#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.7048</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#15190#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15190</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="759" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#6759.0438#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6759.0438</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#-118.2955#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.2955</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#236.8964#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">236.8964</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#15262#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">15262</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12018" LinkageID="1" Operator="geitnerm" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130314" UniqueID="49#01#12018#20180426130314#7.96#COI#1" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">7.96</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">7.96^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="188549" KitID="13" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1124" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#652.1761#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">652.1761</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#-118.6409#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6409</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#229.7896#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.7896</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#14199#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14199</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1122" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#6405.6851#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6405.6851</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#-118.6402#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.6402</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#229.9292#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">229.9292</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#14142#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">14142</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12018" LinkageID="2" Operator="geitnerm" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130302" UniqueID="49#01#12018#20180426130302#7.96#COI#2" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">7.96</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">7.96^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="188549" KitID="13" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1123" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#671.6460#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">671.6460</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#-118.3347#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3347</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#236.8924#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.8924</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#15394#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15394</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1122" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#6405.6851#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6405.6851</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#-118.6402#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.6402</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#229.9292#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">229.9292</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132210" PipettingDateTime="20180426130338" UniqueID="49#01#11014#20180426130338#14142#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">14142</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12018" LinkageID="3" Operator="geitnerm" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130314" UniqueID="49#01#12018#20180426130314#8.17#COI#3" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">8.17</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">8.17^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="188549" KitID="13" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1121" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#6838.1990#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6838.1990</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#-118.2758#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.2758</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#236.8456#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">236.8456</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#15180#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">15180</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1124" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#652.1761#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">652.1761</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#-118.6409#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6409</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#229.7896#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.7896</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132146" PipettingDateTime="20180426130314" UniqueID="49#01#11013#20180426130314#14199#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14199</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12018" LinkageID="4" Operator="geitnerm" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130302" UniqueID="49#01#12018#20180426130302#8.17#COI#4" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">8.17</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">8.17^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="188549" KitID="13" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1123" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#671.6460#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">671.6460</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#-118.3347#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3347</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#236.8924#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.8924</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132134" PipettingDateTime="20180426130302" UniqueID="49#01#11013#20180426130302#15394#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15394</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="12" Expired="false" LotID="188549" SerialNumber="976" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="1121" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#6838.1990#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">6838.1990</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#-118.2758#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">-118.2758</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#236.8456#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">236.8456</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="true" DateTime="20180426132158" PipettingDateTime="20180426130326" UniqueID="49#01#11014#20180426130326#15180#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.77" StandardDeviation="0.877" />
+        <ResultPart Part="1" Unit="COUNT">15180</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="11" Expired="false" LotID="188549" SerialNumber="806" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12018" LinkageID="1" Operator="geitnerm" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130402" UniqueID="49#01#12018#20180426130402#6.88#COI#1" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">6.88</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">6.88^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="228633" KitID="21" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="762" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#638.8497#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">638.8497</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#-118.6767#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6767</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#229.6628#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.6628</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#14327#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14327</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="760" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#6341.5898#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6341.5898</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#-118.6219#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.6219</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#229.9308#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">229.9308</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#13725#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">13725</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12018" LinkageID="2" Operator="geitnerm" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130350" UniqueID="49#01#12018#20180426130350#6.88#COI#2" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">6.88</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">6.88^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="228633" KitID="21" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="761" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#682.7086#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">682.7086</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#-118.3377#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3377</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#236.7048#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.7048</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#15190#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15190</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="760" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#6341.5898#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6341.5898</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#-118.6219#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.6219</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#229.9308#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">229.9308</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132258" PipettingDateTime="20180426130426" UniqueID="49#01#11014#20180426130426#13725#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">13725</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12018" LinkageID="3" Operator="geitnerm" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130402" UniqueID="49#01#12018#20180426130402#7.02#COI#3" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">7.02</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">7.02^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="228633" KitID="21" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="759" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#6759.0438#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6759.0438</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#-118.2955#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.2955</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#236.8964#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">236.8964</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#15262#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">15262</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="762" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#638.8497#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">638.8497</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#-118.6767#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.6767</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#229.6628#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">229.6628</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132234" PipettingDateTime="20180426130402" UniqueID="49#01#11013#20180426130402#14327#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">14327</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+    <Result TestCode="12018" LinkageID="4" Operator="geitnerm" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130350" UniqueID="49#01#12018#20180426130350#7.02#COI#4" MeasuringSubUnitID="e801#0" Repetition="false">
+      <ResultPart Part="1" Unit="COI">7.02</ResultPart>
+      <ResultPart Part="2"></ResultPart>
+      <ResultPart Part="0">7.02^</ResultPart>
+      <Reagents>
+        <Reagent Type="KIT" Position="" Expired="false" LotID="228633" KitID="21" />
+      </Reagents>
+      <Flag Value="N" />
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="761" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">-1</ResultPart>
+        <ResultPart Part="0">^-1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#682.7086#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">682.7086</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#-118.3377#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">-118.3377</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#236.7048#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">236.7048</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11013" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132222" PipettingDateTime="20180426130350" UniqueID="49#01#11013#20180426130350#15190#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <AsymmetricTargetValue Upper="0.500" Lower="0.0250" />
+        <ResultPart Part="1" Unit="COUNT">15190</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="25" Expired="false" LotID="228633" SerialNumber="19" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="759" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1"></ResultPart>
+        <ResultPart Part="2">1</ResultPart>
+        <ResultPart Part="0">^1</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#6759.0438#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">6759.0438</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#-118.2955#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">-118.2955</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#236.8964#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">236.8964</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+      <Result TestCode="11014" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180426132246" PipettingDateTime="20180426130414" UniqueID="49#01#11014#20180426130414#15262#COUNT" MeasuringSubUnitID="e801#1" Repetition="false">
+        <SymmetricTargetValue Target="8.01" StandardDeviation="0.801" />
+        <ResultPart Part="1" Unit="COUNT">15262</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="21" Expired="false" LotID="228633" SerialNumber="20" />
+        </Reagents>
+        <Flag Value="N" />
+      </Result>
+    </Result>
+  </Sample>
+</SampleResult>

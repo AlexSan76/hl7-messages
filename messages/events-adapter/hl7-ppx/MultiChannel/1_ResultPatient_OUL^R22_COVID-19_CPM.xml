@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SampleResult Version="1.0" DriverName="cobas8800B" DriverVersion="%DriverVersion%" InstrumentType="cobas8800B" Batch="false">
+  <Sample Control="false" SampleID="$01D7KK8R" InstrumentSpecimen="36">
+    <Result TestCode="SARS-COV-2^SARS-COV-2^99ROC#TGT1^TGT1^99ROC#0" Operator="Supervisor" DateTime="20200303001809" MeasuringSubUnitID="IM300-001031">
+      <ResultPart Part="1">ValueNotSet</ResultPart>
+      <ResultPart Part="2">Positive</ResultPart>
+      <Flag Value="POS" />
+      <Comment Key="QCID_1">526_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">525_pos^^99ROC</Comment>
+    </Result>
+    <Result TestCode="SARS-COV-2^SARS-COV-2^99ROC#TGT2^TGT2^99ROC#0" Operator="Supervisor" DateTime="20200303001809" MeasuringSubUnitID="IM300-001031">
+      <ResultPart Part="1">ValueNotSet</ResultPart>
+      <ResultPart Part="2">Positive</ResultPart>
+      <Flag Value="POS" />
+      <Comment Key="QCID_1">526_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">525_pos^^99ROC</Comment>
+    </Result>
+    <Result TestCode="SARS-COV-2^SARS-COV-2^99ROC#0" Operator="Supervisor" DateTime="20200303001809" MeasuringSubUnitID="IM300-001031">
+      <ResultPart Part="1">ValueNotSet</ResultPart>
+      <ResultPart Part="2">NotApplicable</ResultPart>
+      <Flag Value="NA" />
+      <Comment Key="QCID_1">526_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">525_pos^^99ROC</Comment>
+    </Result>
+    <Result TestCode="SARS-COV-2^SARS-COV-2^99ROC#RI#0#1" Operator="Supervisor" DateTime="20200303001809" MeasuringSubUnitID="IM300-001031">
+      <ResultPart Part="1">NA</ResultPart>
+      <ResultPart Part="2">NA</ResultPart>
+      <Comment Key="QCID_1">526_neg^^99ROC</Comment>
+      <Comment Key="QCID_2">525_pos^^99ROC</Comment>
+    </Result>
+  </Sample>
+</SampleResult>

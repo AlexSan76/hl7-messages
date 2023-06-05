@@ -1,0 +1,37 @@
+POST http://127.0.0.1:55662 HTTP/1.1
+Content-Type: application/xml
+Connection: keep-alive 
+topic: driverframework/toupper/cobaspro/sampleresult/50002
+
+< ./1_ResultPatient_OUL^R22_COVID-19.xml
+
+###
+
+POST http://127.0.0.1:55662 HTTP/1.1
+Content-Type: application/xml
+Connection: keep-alive 
+topic: driverframework/toupper/cobaspro/sampleresult/50002
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SampleResult Batch="false" Version="1.0" DriverName="cobasproX" DriverVersion="%DriverVersion%" InstrumentType="cobasproX">
+  <Sample SampleID="10001" InstrumentSpecimen="01" Control="false">
+    <Result TestCode="989" InstrumentDilution="Dec" Operator="Operator" CalibrationID="4711" DateTime="20160725155600" PipettingDateTime="20160719194012" UniqueID="10001#01#989#20160719194012#47.123#uIU/kg" MeasuringSubUnitID="ISE#1" Repetition="false">
+      <ResultPart Part="1" Unit="uIU/kg">47.123</ResultPart>
+      <Flag Value="HU" />
+      <Comment Key="C1">Comment1</Comment>
+      <Comment Key="C2">Comment2</Comment>
+      <Comment Key="C3">Comment3</Comment>
+      <Comment Key="C4">Comment4</Comment>
+      <Comment Key="C5">Comment5</Comment>
+    </Result>
+    <Result TestCode="990" Operator="Operator2" CalibrationID="4733" DateTime="20160725155600" MeasuringSubUnitID="ISE#1" Repetition="false">
+      <ResultPart Part="1" Unit="uIU/kg">33.255</ResultPart>
+      <Flag Value="HB" />
+      <Comment Key="C1">Comment1</Comment>
+      <Comment Key="C2">Comment2</Comment>
+      <Comment Key="C3">Comment3</Comment>
+      <Comment Key="C4">Comment4</Comment>
+      <Comment Key="C5">Comment5</Comment>
+    </Result>
+  </Sample>
+</SampleResult>

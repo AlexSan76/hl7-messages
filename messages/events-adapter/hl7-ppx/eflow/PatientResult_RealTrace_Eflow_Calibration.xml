@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SampleResult Batch="false" Version="1.0" DriverName="cobaspro" DriverVersion="%DriverVersion%" InstrumentType="cobaspro">
+  <Sample SampleID="456" SampleArrivalDateTime="20180424114650" InstrumentSpecimen="01" InstrumentTubeType="SC" Position="1" Rack="50016" Control="false">
+    <Result TestCode="10104" InstrumentDilution="1" Operator="geitnerm" CalibrationID="846" StandbyReagent="false" DateTime="20180424121833" PipettingDateTime="20180424120001" UniqueID="456#01#10104#20180424120001#5.12#COI" MeasuringSubUnitID="e801#2" Repetition="false">
+      <ResultPart Part="1" Unit="COI">5.12</ResultPart>
+      <ResultPart Part="2">1</ResultPart>
+      <ResultPart Part="0">5.12^1</ResultPart>
+      <Reagents>
+        <Reagent Type="ASY" Position="16" Expired="false" LotID="189136" SerialNumber="12365" />
+      </Reagents>
+      <Flag Value="112" />
+      <Comment Key="C1">Darwin Charles</Comment>
+      <Comment Key="C2">DAC001</Comment>
+      <Comment Key="C3">18090212</Comment>
+      <Comment Key="C4">?</Comment>
+      <Result TestCode="10104-10104_EFS-1" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFS" StandbyReagent="false" DateTime="20180424121833" PipettingDateTime="20180424120001" UniqueID="456#01#10104-10104_EFS-1#20180424120001#85683.258#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <ResultPart Part="1" Unit="COUNT">85683.258</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="16" Expired="false" LotID="189136" SerialNumber="12365" />
+        </Reagents>
+        <Flag Value="112" />
+        <Comment Key="C1">Darwin Charles</Comment>
+        <Comment Key="C2">DAC001</Comment>
+        <Comment Key="C3">18090212</Comment>
+        <Comment Key="C4">?</Comment>
+      </Result>
+      <Result TestCode="10104-10104_EFV-1" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFV" StandbyReagent="false" DateTime="20180424121833" PipettingDateTime="20180424120001" UniqueID="456#01#10104-10104_EFV-1#20180424120001#-118.4886#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <ResultPart Part="1" Unit="COUNT">-118.4886</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="16" Expired="false" LotID="189136" SerialNumber="12365" />
+        </Reagents>
+        <Flag Value="112" />
+        <Comment Key="C1">Darwin Charles</Comment>
+        <Comment Key="C2">DAC001</Comment>
+        <Comment Key="C3">18090212</Comment>
+        <Comment Key="C4">?</Comment>
+      </Result>
+      <Result TestCode="10104-10104_EFC-1" InstrumentDilution="1" Operator="geitnerm" CalibrationID="EFC" StandbyReagent="false" DateTime="20180424121833" PipettingDateTime="20180424120001" UniqueID="456#01#10104-10104_EFC-1#20180424120001#223.1364#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <ResultPart Part="1" Unit="COUNT">223.1364</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="16" Expired="false" LotID="189136" SerialNumber="12365" />
+        </Reagents>
+        <Flag Value="112" />
+        <Comment Key="C1">Darwin Charles</Comment>
+        <Comment Key="C2">DAC001</Comment>
+        <Comment Key="C3">18090212</Comment>
+        <Comment Key="C4">?</Comment>
+      </Result>
+      <Result TestCode="10104-10104_PMT-1" InstrumentDilution="1" Operator="geitnerm" CalibrationID="PMT" StandbyReagent="false" DateTime="20180424121833" PipettingDateTime="20180424120001" UniqueID="456#01#10104-10104_PMT-1#20180424120001#13289#COUNT" MeasuringSubUnitID="e801#2" Repetition="false">
+        <ResultPart Part="1" Unit="COUNT">13289</ResultPart>
+        <Reagents>
+          <Reagent Type="ASY" Position="16" Expired="false" LotID="189136" SerialNumber="12365" />
+        </Reagents>
+        <Flag Value="112" />
+        <Comment Key="C1">Darwin Charles</Comment>
+        <Comment Key="C2">DAC001</Comment>
+        <Comment Key="C3">18090212</Comment>
+        <Comment Key="C4">?</Comment>
+      </Result>
+    </Result>
+  </Sample>
+</SampleResult>

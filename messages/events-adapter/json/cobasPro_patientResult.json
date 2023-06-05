@@ -1,0 +1,120 @@
+{
+    "accountnumber": "EDGE-QA-ACCOUNT",
+    "coreintegrator": "EDGE-QA-ID",
+    "data": {
+        "@context": "https://id.roche.com/a8/1.2.1/context.jsonld",
+        "@id": "urn:uuid:77bfea1a-70b3-4ef4-8a98-44e973d3ad16",
+        "@type": "QcResultReported",
+        "hasDevice": {
+            "@id": "urn:uuid:b1e9017e-3ca0-4a19-912d-470924e73fac",
+            "@type": "Device",
+            "deviceManufacturer": "Roche",
+            "deviceName": "cobas8k",
+            "deviceSerialNumber": "CD675733-3A6C-46AD-AE52-73E80DF00B43",
+            "deviceType": "cobas8k",
+            "hasDeviceModule": {
+                "@id": "urn:uuid:6bedba00-e3b7-4ad8-8833-ec447ef7c586"
+            },
+            "hasObservation": {
+                "@id": "urn:uuid:6d800161-dfb6-4605-8f2a-6d0e0de7c10b"
+            }
+        },
+        "hasDeviceModule": {
+            "@id": "urn:uuid:6bedba00-e3b7-4ad8-8833-ec447ef7c586",
+            "@type": "Device",
+            "hasDevice": {
+                "@id": "urn:uuid:b1e9017e-3ca0-4a19-912d-470924e73fac"
+            },
+            "hasIdentifier": {
+                "@type": "Identifier",
+                "identifierType": "Laboratory",
+                "identifierValue": "MU1#c701#1#1"
+            },
+            "hasObservation": {
+                "@id": "urn:uuid:6d800161-dfb6-4605-8f2a-6d0e0de7c10b"
+            }
+        },
+        "hasObservation": {
+            "@id": "urn:uuid:6d800161-dfb6-4605-8f2a-6d0e0de7c10b",
+            "@type": "Observation",
+            "hasAbnormalFlagCode": {
+                "@type": "Code",
+                "codeType": "Coding system",
+                "codeValue": "23"
+            },
+            "hasDevice": {
+                "@id": "urn:uuid:b1e9017e-3ca0-4a19-912d-470924e73fac"
+            },
+            "hasDeviceModule": {
+                "@id": "urn:uuid:6bedba00-e3b7-4ad8-8833-ec447ef7c586"
+            },
+            "hasObservationTypeCode": {
+                "@type": "Code",
+                "codeType": "Lab",
+                "codeValue": "8717"
+            },
+            "hasOperator": {
+                "@type": "Operator",
+                "hasIdentifier": {
+                    "@type": "Identifier",
+                    "identifierType": "Instrument Operator",
+                    "identifierValue": "bmserv^SYSTEM"
+                }
+            },
+            "hasSample": {
+                "@id": "urn:uuid:f0102751-d10f-4bae-bd39-c70fc404439c"
+            },
+            "observationIsEFlow": "false",
+            "observationSampleDilution": "1",
+            "observationTimePoint": "2010-10-19T11:29:26+02:00",
+            "observationValue": "12.44",
+            "observationValueUnit": "mmol/L"
+        },
+        "hasSample": {
+            "@id": "urn:uuid:f0102751-d10f-4bae-bd39-c70fc404439c",
+            "@type": "Sample",
+            "hasIdentifier": {
+                "@type": "Identifier",
+                "identifierType": "Laboratory",
+                "identifierValue": "PPU"
+            },
+            "hasObservation": {
+                "@id": "urn:uuid:6d800161-dfb6-4605-8f2a-6d0e0de7c10b"
+            },
+            "hasSampleRack": {
+                "@type": "SampleRack",
+                "hasIdentifier": {
+                    "@type": "Identifier",
+                    "identifierType": "Laboratory",
+                    "identifierValue": "3005"
+                }
+            },
+            "hasSampleTypeCode": {
+                "@type": "Code",
+                "codeType": "Instrument Host Interface Specification",
+                "codeValue": "S1"
+            },
+            "samplePositionOnRack": "2"
+        },
+        "timePoint": "2010-10-19T11:29:26+02:00",
+        "timeZone": "Europe/Madrid"
+    },
+    "datacontenttype": "application/ld+json",
+    "dataschema": "https://id.roche.com/a8/1.2.1/schema.ttl",
+    "id": "84fa5f23-4d5c-4f1b-aa5c-9dc36eead12e",
+    "labcountry": "EDGE-QA-COUNTRY",
+    "labidentifier": "EDGE-QA-LOCATION",
+    "labzipcode": "EDGE-QA-ZIP-CODE",
+    "privacyrelevant": true,
+    "pubsubname": "policy-enforce-pubsub",
+    "rochespecversion": "2.0",
+    "source": "urn:rudi:GTIN%5E000%5E50007",
+    "specversion": "1.0",
+    "subject": "urn:uuid:77bfea1a-70b3-4ef4-8a98-44e973d3ad16",
+    "time": "2010-10-19T09:29:26Z",
+    "topic": "messages",
+    "traceid": "00-00000000000000000000000000000000-0000000000000000-00",
+    "traceparent": "00-00000000000000000000000000000000-0000000000000000-00",
+    "tracestate": "",
+    "type": "https://id.roche.com/a8/QcResultReported"
+}

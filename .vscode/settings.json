@@ -3,7 +3,7 @@
         {
             "Description": "Localhost",
             "Hostname": "127.0.0.1",
-            "Port": 30082
+            "Port": 55662
         },
         {
             "Description": "Ibiza cluster",
@@ -36,6 +36,24 @@
             "Hostname": "10.145.225.37",
             "Port": 30082
         }              
+        ,
+        {
+            "Description": "Kodama lni dev",
+            "Hostname": "10.145.226.39",
+            "Port": 30085
+        }              
+        ,
+        {
+            "Description": "nI edge it",
+            "Hostname": "10.43.77.36",
+            "Port": 30085
+        }        
+        ,
+        {
+            "Description": "nI kodama-dev2-cobaspro1",
+            "Hostname": "10.115.6.170",
+            "Port": 55662
+        }            
 
     ],
     "hl7tools.ConnectionTimeout": 10

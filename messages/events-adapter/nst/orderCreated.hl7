@@ -2,5 +2,5 @@ MSH|^~\&|cobas infinity 3.05.00|cobas infinity 3.05.00|NAVIFY Sample Tracking|NA
 PID|1||10^^^Alternate_Assigning_Authority||lastname_pac10^first name_pac10||19670101|F
 SPM|1|0011||SER^Serum|||||||||||||||||||||||67^67 - SERUM - braun - Nativ Gel COBAS
 ORC|NW||0011||||||20221114143331+0000
-TQ1|1||||||REFERENCE_DATETIME_NOW_PLACEHOLDER||R
+TQ1|1||||||20221114143331||R
 OBR|1||0011|1^T1
